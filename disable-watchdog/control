@@ -1,0 +1,10 @@
+Package: com.yourcompany.wy7
+Name: wy7
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: System Administrator
+Author: System Administrator
+Section: System
+Tag: role::hacker
